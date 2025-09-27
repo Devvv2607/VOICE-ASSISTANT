@@ -1,0 +1,77 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.eggs
+*.manifest
+*.spec
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# Environment
+.env
+.env.*
+*.env
+*.venv
+venv/
+ENV/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Temp
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+~$*
+
+# Credentials
+credentials.json
+token.pickle
+
+# Audio temp files
+*.mp3
+*.wav
+
+# Others
+*.sqlite3
+*.db
+*.mypy_cache/
+*.pytest_cache/
+
+# Ignore installer output
+install_advanced.log
+install_windows.log
+
+# Ignore test results
+htmlcov/
+coverage.xml
+
+# Ignore cache
+.cache/
+
+# Ignore pip
+pip-selfcheck.json
+
+# Ignore node
+node_modules/
